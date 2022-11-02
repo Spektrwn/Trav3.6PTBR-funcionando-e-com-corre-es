@@ -1,4 +1,4 @@
-# Trav3.6PTBR-funcionando-e-com-corre-es
+# Trav3.6PTBR-funcionando-e-com-correções
 Jogo Travian Versão 3.6
 Multihunter 12345
 Admin 12345
