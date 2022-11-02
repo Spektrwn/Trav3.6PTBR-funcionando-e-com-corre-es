@@ -1,0 +1,7 @@
+<h1><img class="unit ugeb" src="img/x.gif" alt="" title="" /> Construções (Infra Estrutura)</h1><ul><li><a href="manual.php?typ=4&amp;gid=15">Edifício principal</a></li><li><a href="manual.php?typ=4&amp;gid=17">Mercado</a></li><li><a href="manual.php?typ=4&amp;gid=18">Embaixada</a></li><li><a href="manual.php?typ=4&amp;gid=23">Esconderijo</a></li><li><a href="manual.php?typ=4&amp;gid=24">Casa do povo</a></li><li><a href="manual.php?typ=4&amp;gid=25">Residência</a></li><li><a href="manual.php?typ=4&amp;gid=26">Palacio</a></li><li><a href="manual.php?typ=4&amp;gid=27">Tesouraria</a></li><li><a href="manual.php?typ=4&amp;gid=28">Companhia do comércio</a></li><li><a href="manual.php?typ=4&amp;gid=34">Pedreiro</a></li><li><a href="manual.php?typ=4&amp;gid=35">Cervejaria</a></li><li><a href="manual.php?typ=4&amp;gid=38">Grande Armazem</a></li><li><a href="manual.php?typ=4&amp;gid=39">Grande Celeiro</a></li><li><a href="manual.php?typ=4&amp;gid=41">Bebedouro para cavalos</a></li><li><a href="manual.php?typ=4&amp;gid=40">Maravilha do Mundo</a></li></ul><map id="nav" name="nav">
+
+ <area href="manual.php?typ=3&amp;s=2" title="atrás" coords="0,0,45,18" shape="rect" alt="" />
+ <area href="manual.php?s=1" title="Visão Geral" coords="46,0,70,18" shape="rect" alt="" />
+ <area href="manual.php?typ=3&amp;s=1" title="a frente" coords="71,0,116,18" shape="rect" alt="" />
+</map>
+<img usemap="#nav" src="img/x.gif" class="navi" alt="" />

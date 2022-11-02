@@ -1,0 +1,7 @@
+<h1><img class="unit ugeb" src="img/x.gif"> Ferreiro</h1><img class="building g12" src="img/x.gif" alt="Blacksmith" title="Ferreiro" />As armas de seus guerreiros s&atildeo refor&ccediladas nos fornos de fundi&ccedil&atildeo do ferreiro. Ao aumentar seu n&iacutevel, voc&ecirc pode encomendar a fabrica&ccedil&atildeo de armas ainda melhores.<p><b>Custos</b> e <b>tempo de constru&ccedil&atildeo</b> ao n&iacutevel 1:<br /><img class="r1" src="img/x.gif" alt="Lumber" title="Madeira" />170 | <img class="r2" src="img/x.gif" alt="Clay" title="Barro" />200 | <img class="r3" src="img/x.gif" alt="Iron" title="Ferro" />380 | <img class="r4" src="img/x.gif" alt="Crop" title="Cereal" />130 | <img class="r5" src="img/x.gif" alt="Consumo de cereal" title="Consumo de cereal" />4 | <span class="dur"><img class="clock" alt="duration" title="duração" src="img/x.gif" />0:33:20</span></p>
+	<p><b>Pr&eacute-requisitos</b><br /><a href="manual.php?typ=4&gid=15">Edif&iacutecio principal</a> N&iacutevel 3, <a href="manual.php?typ=4&gid=22">Academia</a> N&iacutevel 3</p><map id="nav" name="nav">
+ <area href="manual.php?typ=4&amp;s=11" title="atrás" coords="0,0,45,18" shape="rect" alt="" />
+ <area href="manual.php?s=1" title="Visão geral" coords="46,0,70,18" shape="rect" alt="" />
+ <area href="manual.php?typ=4&amp;s=13" title="a frente" coords="71,0,116,18" shape="rect" alt="" />
+</map>
+<img usemap="#nav" src="img/x.gif" class="navi" alt="" />
